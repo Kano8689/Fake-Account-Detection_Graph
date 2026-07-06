@@ -306,25 +306,25 @@ A detailed project report describing the methodology, graph mining techniques, G
 
 ### Network Graph
 
-![Network Graph](screenshots/network_graph.png)
+![Network Graph](graph/network_graph.png)
 
 ---
 
 ### Community Detection
 
-![Community Detection](screenshots/communities.png)
+![Community Detection](graph/communities.png)
 
 ---
 
 ### Confusion Matrix
 
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![Confusion Matrix](graph/confusion_matrix.png)
 
 ---
 
 ### ROC Curve
 
-![ROC Curve](screenshots/roc_curve.png)
+![ROC Curve](graph/roc_curve.png)
 
 ---
 
