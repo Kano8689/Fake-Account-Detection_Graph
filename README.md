@@ -306,25 +306,33 @@ A detailed project report describing the methodology, graph mining techniques, G
 
 ### Network Graph
 
-![Network Graph](graph/network_graph.png)
+![Network Graph](graph/original_graph2.png)
 
 ---
 
 ### Community Detection
 
-![Community Detection](graph/communities.png)
+![Community Detection](graph/detection_performance.png)
 
 ---
 
 ### Confusion Matrix
 
-![Confusion Matrix](graph/confusion_matrix.png)
+![Confusion Matrix](graph/original_glevel3_gnn_matrix.png)
 
 ---
 
 ### ROC Curve
 
 ![ROC Curve](graph/roc_curve.png)
+
+---
+
+### Final Output
+    * 🔵 Trusted Account
+    * 🔴 Fraud Account
+
+![Final Output](graph/social_network_visualization.png)
 
 ---
 
