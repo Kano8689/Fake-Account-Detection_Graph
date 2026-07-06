@@ -249,18 +249,25 @@ Visualizes fake and genuine account predictions.
 ## 📂 Project Structure
 
 ```text
-Multi-Level-Fake-Account-Detection/
+Fake-Account-Detection_Graph/
 │
-├── FraudAccountDetection.ipynb
-├── facebook_combined.txt
-├── README.md
-├── screenshots/
-│   ├── network_graph.png
-│   ├── communities.png
-│   ├── confusion_matrix.png
+├── Datasets/
+│   ├── facebook_combined.csv
+│   ├── facebook_combined.txt
+│   ├── fake_social_media.csv
+├── graph/
+│   ├── detection_performance.png
+│   ├── detection_performance.png
+│   ├── gcn_training_history.png
+│   └── original_glevel3_gnn_matrix.png
+│   └── original_graph2.png
+│   └── performance_metrics.png
 │   └── roc_curve.png
-└── Documentation/
-    └── Fake_Account_Detection_Documentation.pdf
+│   └── social_network_visualization.png
+├── FraudAccountDetection.ipynb
+├── Fake_Account_Detection_Documentation.docx
+├── Fake_Account_Detection_Documentation.pdf
+├── README.md
 ```
 
 ---
@@ -270,7 +277,7 @@ Multi-Level-Fake-Account-Detection/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Multi-Level-Fake-Account-Detection.git
+git clone https://github.com/Kano8689/Fake-Account-Detection_Graph.git
 cd Multi-Level-Fake-Account-Detection
 ```
 
