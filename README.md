@@ -374,6 +374,3 @@ This project demonstrates practical knowledge of:
 
 ---
 
-## ⭐ Support
-
-If you found this project useful, please consider giving it a ⭐ on GitHub. It supports future projects in Artificial Intelligence, Graph Machine Learning, Data Science, and Social Network Analytics.
