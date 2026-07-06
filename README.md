@@ -307,7 +307,7 @@ A detailed project report describing the methodology, graph mining techniques, G
 Add your project screenshots here.
 
 ```text
-screenshots/network_graph.png
+graph/roc_curve.png
 screenshots/communities.png
 screenshots/confusion_matrix.png
 screenshots/roc_curve.png
