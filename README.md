@@ -302,16 +302,29 @@ A detailed project report describing the methodology, graph mining techniques, G
 📘 **Project Report:** [Open Project Report (PDF)](https://github.com/Kano8689/Fake-Account-Detection_Graph/blob/main/Fake_Account_Detection_Documentation.pdf)
 
 
-## 📸 Screenshots
+## 📸 Project Screenshots
 
-Add your project screenshots here.
+### Network Graph
 
-```text
-graph/roc_curve.png
-screenshots/communities.png
-screenshots/confusion_matrix.png
-screenshots/roc_curve.png
-```
+![Network Graph](screenshots/network_graph.png)
+
+---
+
+### Community Detection
+
+![Community Detection](screenshots/communities.png)
+
+---
+
+### Confusion Matrix
+
+![Confusion Matrix](screenshots/confusion_matrix.png)
+
+---
+
+### ROC Curve
+
+![ROC Curve](screenshots/roc_curve.png)
 
 ---
 
