@@ -329,8 +329,8 @@ A detailed project report describing the methodology, graph mining techniques, G
 ---
 
 ### Final Output
-    - 🔵 Trusted Account
-    - 🔴 Fraud Account
+    🔵 Trusted Account
+    🔴 Fraud Account
 
 ![Final Output](graph/social_network_visualization.png)
 
